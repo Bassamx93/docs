@@ -1,12 +1,15 @@
 ### YamlMime:Hub
 
 title: .NET documentation
-summary: Learn to use .NET to create applications on any platform using C#, F#, and Visual Basic. Browse API reference, sample code, tutorials, and more.
+summary: Learn to use .NET to create applications on any platform using C#, F#,
+  and Visual Basic. Browse API reference, sample code, tutorials, and more.
 brand: dotnet
 
 metadata:
   title: .NET documentation
-  description: Learn to use .NET to create applications on any platform using C#, F#, and Visual Basic. Browse API reference, sample code, tutorials, and more.
+  description: Learn to use .NET to create applications on any platform using C#,
+    F#, and Visual Basic. Browse API reference, sample code, tutorials, and
+    more.
   ms.service: dotnet
   ms.topic: hub-page
   ms.collection: collection
@@ -21,35 +24,36 @@ highlightedContent:
   # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
   items:
     # Card
-    - title: "Download .NET"
+    - title: Download .NET
       itemType: download
       url: https://dotnet.microsoft.com/download
     # Card
-    - title: "What's new in .NET"
+    - title: What's new in .NET
       itemType: whats-new
       url: core/whats-new/dotnet-11/overview.md
     # Card
-    - title: "Build AI apps in .NET"
+    - title: Build AI apps in .NET
       itemType: overview
       url: ai/index.yml
     # Card
-    - title: "Interactive introduction to C#"
+    - title: Interactive introduction to C#
       itemType: get-started
       url: csharp/tour-of-csharp/tutorials/hello-world.md
     # Card
-    - title: "Azure for .NET developers"
+    - title: Azure for .NET developers
       itemType: overview
       url: azure/index.yml
     # Card
-    - title: ".NET architecture docs"
+    - title: .NET architecture docs
       itemType: architecture
       url: architecture/index.yml
 
 # conceptualContent section (optional)
 conceptualContent:
   # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
-  title: ".NET: Free. Cross platform. Open source." # < 60 chars (optional)
-  summary: "A developer platform for building all your apps: web, mobile, desktop, gaming, IoT, and more. Supported on Windows, Linux, and macOS."
+  title: '.NET: Free. Cross platform. Open source.' # < 60 chars (optional)
+  summary: 'A developer platform for building all your apps: web, mobile, desktop,
+    gaming, IoT, and more. Supported on Windows, Linux, and macOS.'
   items:
     # Card
     - title: Open source .NET
@@ -213,22 +217,22 @@ conceptualContent:
 ## Languages: strategy, C#, F#, and Visual Basic
 tools:
   title: Programming languages # < 60 chars (optional)
-  summary: "Write your app in your favorite language"
+  summary: Write your app in your favorite language
   items:
     # Card
-    - title: "Write .NET apps in C#, F#, or Visual Basic"
+    - title: Write .NET apps in C#, F#, or Visual Basic
       imageSrc: /media/logos/logo_net.svg
       url: fundamentals/languages.md
     # Card
-    - title: "A modern, object-oriented, and type-safe language"
+    - title: A modern, object-oriented, and type-safe language
       imageSrc: ./media/logo_csharp.png
       url: csharp/index.yml
     # Card
-    - title: "A simple language for succinct, robust, and performant code"
+    - title: A simple language for succinct, robust, and performant code
       imageSrc: ./media/logo_fsharp.png
       url: fsharp/index.yml
     # Card
-    - title: "An approachable language with readable syntax"
+    - title: An approachable language with readable syntax
       imageSrc: ./media/logo_vb.png
       url: visual-basic/index.yml
 
@@ -239,7 +243,7 @@ additionalContent:
 
   sections:
     - title: Create your application # < 60 chars (optional)
-      summary: "You can choose web, mobile, desktop, gaming, IoT, and more." # < 160 chars (optional)
+      summary: You can choose web, mobile, desktop, gaming, IoT, and more. # < 160 chars (optional)
       items:
         # Card
         - title: Web
@@ -253,7 +257,7 @@ additionalContent:
             - url: /aspnet/mvc/overview/deployment/docker-aspnetmvc
               text: ASP.NET MVC apps in Windows containers
             - url: /aspnet/core/blazor/
-              text: "Blazor: Interactive client-side web UI with .NET"
+              text: 'Blazor: Interactive client-side web UI with .NET'
             - url: fsharp/scenarios/web-development.md
               text: F# for web development
         # Card
@@ -348,29 +352,31 @@ additionalContent:
       summary: Search the .NET API and language reference documentation. # < 160 chars (optional)
       items:
         # Card
-        - title: ".NET API reference"
+        - title: .NET API reference
           summary: API reference documentation for .NET
           url: ../api/index.md?view=net-10.0
         # Card
-        - title: "ASP.NET Core API reference"
+        - title: ASP.NET Core API reference
           summary: API reference documentation for ASP.NET Core
           url: ../api/index.md?view=aspnetcore-10.0&preserve-view=true
         # Card
-        - title: "C# language reference"
+        - title: C# language reference
           summary: C# language reference and specification
           url: csharp/language-reference/index.yml
         # Card
-        - title: "F# language reference"
+        - title: F# language reference
           summary: F# language reference
           url: fsharp/language-reference/index.md
         # Card
-        - title: "Visual Basic language reference"
+        - title: Visual Basic language reference
           summary: Visual Basic language reference and specification
           url: visual-basic/language-reference/index.md
         # Card
-        - title: ".NET Framework API reference"
+        - title: .NET Framework API reference
           summary: API reference documentation for .NET Framework
           url: ../api/index.md?view=netframework-4.8&preserve-view=true
 
   # footer (optional)
-  footer: "Are you interested in contributing to the .NET docs? For more information, see our [contributor guide](/contribute/dotnet/dotnet-contribute)."
+  footer: Are you interested in contributing to the .NET docs? For more
+    information, see our [contributor
+    guide](/contribute/dotnet/dotnet-contribute).
